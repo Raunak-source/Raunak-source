@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning rust, i am python bug finder
 - 💞️ I’m looking to collaborate on linux apps (arch btw)
 - 😄 Pronouns: no 
-- ⚡ Fun fact: $$ f= G /frac(m_1m_2)(d^2) $$
+- ⚡ Fun fact: $$ f= G /frac{m_1m_2}{d^2} $$
 
 <!---
 Raunak-source/Raunak-source is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
